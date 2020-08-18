@@ -1,0 +1,1 @@
+python.exe sort_by_folder.py -e *.zip --dir INPUT_DIR --out OUT_DIR --time %%Y/%%m
